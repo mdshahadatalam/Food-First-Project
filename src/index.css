@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar{
+    background-color:white;
+}
+.last-section{
+    background-color: #f5f5f5;
+    color:  #667687;
+}
+.about-section{
+    background-image: url(../src/assets/oreg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+    
+}
+.bobby-bg{
+    background-image: url(../src/assets/bobby.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.Dynne-bg{
+    background-image: url(../src//assets/Dynne.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.henry-bg{
+    background-image: url(../src/assets/henry.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.joyce-bg{
+    background-image: url(../src/assets/joyce.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.shyaam-bg{
+    background-image: url(../src/assets/shyaam.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.jessica-bg{
+    background-image: url(../src/assets/jesicca.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.linda-bg{
+    background-image: url(../src//assets/linda.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.sarria-bg{
+    background-image: url(../src//assets/sarria.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.brahm-bg{
+    background-image: url(../src//assets/brahm.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.last-bg{
+    background-image:url(../src//assets/last.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.camila-bg{
+    background-image: url(../src//assets//camila.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.dorr-bg{
+    background-image: url(../src//assets//dorr.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.mc-bg{
+    background-image: url(../src//assets/mc.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.FF-News{
+    background-image: url(../src//assets/pub1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.vies1-bg{
+    background-image: url(../src/assets/pub2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.vies2-bg{
+    background-image: url(../src//assets/pub3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
