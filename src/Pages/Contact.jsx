@@ -7,7 +7,7 @@ export const Contact = () => {
     <>
      <div className="container-fluid about-section ">
     <div className="container ">
-      <h1 className=' text-9xl font-bold text-center py-20 text-white'>About Us</h1>
+      <h1 className=' text-9xl font-bold text-center py-20 text-white'>Contact Us</h1>
     </div>
    </div>
    {/* second section  */}
